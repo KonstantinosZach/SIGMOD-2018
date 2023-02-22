@@ -1,6 +1,6 @@
 ## SIGMOD Contest of 2018
 * [Contest Description](https://db.in.tum.de/sigmod18contest/task.shtml)
-* [Full Report]()
+* [Full Report](https://github.com/KonstantinosZach/SIGMOD-2018/blob/main/Report.md)
 
 ### Προσωπικά στοιχεία ομάδας:
 * Γεώργιος-Κωνσταντίνος Ζαχαρόπουλος
